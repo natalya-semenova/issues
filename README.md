@@ -1,18 +1,22 @@
 ## shardTestFiles issue
 Test run with `shardTestFiles: true` are not finished successfully - browser windows are not being closed and launcher reports that 'X instance(s) of WebDriver still running'
 
+```bash
 node -v
 v8.4.0
-
+```
+```bash
 protractor --version
 Version 5.1.2
-
+```
+```bash
 cucumber.js --version
 3.0.1
-
+```
+```bash
 protractor-cucumber-framework
 version 4.0.4
-
+```
 
 ## To reproduce
 
