@@ -10,9 +10,9 @@
     "cucumber": "^3.0.1",
     "faker": "^4.1.0",
     "lodash": "^4.15.0",
-    "selenium-webdriver": "^3.5.0",
     "protractor": "^5.1.0",
     "protractor-cucumber-framework": "^4.0.4",
+    "selenium-webdriver": "^3.5.0",
     "yargs": "^7.1.0"
   },
   "yargs": {
